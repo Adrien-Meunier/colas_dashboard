@@ -1,0 +1,7 @@
+pandas
+pygeos
+geopandas
+tables
+bokeh
+holoviews
+datashaders
